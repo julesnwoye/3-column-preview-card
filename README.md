@@ -16,7 +16,7 @@ View the optimal layout for the interface depending on their device's screen siz
 See hover and focus states for all interactive elements on the page
 
 Links
-Live Site URL: 
+Live Site URL: https://julesnwoye.github.io/3-column-preview-card/
 
 Built with
 Semantic HTML5 markup
